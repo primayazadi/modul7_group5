@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "KPL_MODUL7_KEL5/1.0.0": {
+        "runtime": {
+          "KPL_MODUL7_KEL5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KPL_MODUL7_KEL5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
