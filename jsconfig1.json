@@ -1,3 +1,27 @@
+<<<<<<< HEAD
+{
+  {
+    "firstName": "Prima",
+    "lastName": "Yazadi",
+    "gender": "Male",
+    "age": 19,
+    "address": {
+      "streetAddress": "Las Vegas",
+      "city": "Bandung",
+      "state": "West Java"
+    },
+    "courses": [
+      {
+        "code": "CRI2C4",
+        "name": "Konstruksi Perangkat Lunak"
+      },
+      {
+        "code": "CRI2XX",
+        "name": "Nama Mata Kuliah"
+      }
+    ]
+  }
+=======
 {
   "exclude": [
     "**/bin",
@@ -8,3 +32,4 @@
     "**/platforms"
   ]
 }
+>>>>>>> a4d224535a53e651600aa454890cd0f1a51b42ab
